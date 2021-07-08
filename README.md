@@ -9,7 +9,7 @@ PRELIMINARY DRAWINGS:
 We created 'napkin drawings' to quickly mock up our presentation and visualization ideas, which can be found [here](https://genesis10-my.sharepoint.com/:w:/g/personal/ljohn_dev-10_com/EeQlvYFfHgZPimRTJ-7MfWABxSBU7Uf_VLD4F7ku9Zfsqw?e=1LaClB )
 
 OVERVIEW:
-Using census and public schooling financial data within the United States to observe trends in educational funding, and their relation to academic success. 
+Using census and public schooling financial data within the United States to observe trends in educational funding, and their relation to academic success. We are interested in projecting the adequate levels of funding necessary for each region of the US, the impact of student-teacher ratios on student performance, and the correlation of financial expenditures (teachers salarys, etc.) on the standardized testing outcomes by state and region. 
 
 GOALS:
 Observe and research levels of acceptable funding, teacher involvement in academic success, and socioeconomic factors which may impact academic success rates within an education system.
