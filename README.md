@@ -34,3 +34,6 @@ ETL can be found [here](https://genesis10-my.sharepoint.com/:w:/g/personal/ljohn
 
 EXECUTIVE SUMMARY:
 [Our Executive Summary](https://genesis10-my.sharepoint.com/:w:/g/personal/pgrice_dev-10_com/EWUt6IBk8L1Khv_7Lx7fDUYBJ293gYMltJtZ7bUAMsLU8w?e=9sz32m)
+
+PRESENTATION:
+Our [Presentation](https://genesis10-my.sharepoint.com/:p:/g/personal/ljohn_dev-10_com/EWQUlH3GRH5Fu22jpZUlfRMB_vviy5kwqD_TQIi0b3nJuQ?e=Q8qCap)
