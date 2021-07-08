@@ -29,3 +29,6 @@ Rutgers University School Finance Indicators [Database](https://www.schoolfinanc
 
 United States Census Bureau [Database](https://www.census.gov/programs-surveys/gov-finances/data/datasets.2018.html): Public Education Primary-Secondary Finances
 
+ETL DOCUMENTATION:
+ETL can be found [here](https://genesis10-my.sharepoint.com/:w:/g/personal/ljohn_dev-10_com/EbgPoVLwzhhCsBFuFPPhLL0BmSk7iCoxfNibsOWXu6qqMA?e=AIHi60)
+
