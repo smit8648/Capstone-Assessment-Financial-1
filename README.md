@@ -29,3 +29,5 @@ United States Census Bureau [Database](https://www.census.gov/programs-surveys/g
 ETL DOCUMENTATION:
 ETL can be found [here](https://genesis10-my.sharepoint.com/:w:/g/personal/ljohn_dev-10_com/EbgPoVLwzhhCsBFuFPPhLL0BmSk7iCoxfNibsOWXu6qqMA?e=AIHi60)
 
+EXECUTIVE SUMMARY:
+[Our Executive Summary](https://genesis10-my.sharepoint.com/:w:/g/personal/pgrice_dev-10_com/EWUt6IBk8L1Khv_7Lx7fDUYBJ293gYMltJtZ7bUAMsLU8w?e=9sz32m)
