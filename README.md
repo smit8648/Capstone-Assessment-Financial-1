@@ -1,7 +1,4 @@
 # Capstone-Assessment-Financial-1
-
-Capstone
-
 QUESTIONS: 
 Questions can be found [here](https://docs.google.com/document/d/1dT3Ld1G9iZvjiuBxztz_eFBTyGA7x-3De33Gz62pSTk/edit?usp=sharing)
 
