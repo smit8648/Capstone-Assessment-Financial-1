@@ -6,7 +6,10 @@ PROJECT PLAN:
 Project plan can be found [here](https://trello.com/b/XVdJ249u)
 
 PRELIMINARY DRAWINGS:
-We created 'napkin drawings' to quickly mock up our presentation and visualization ideas, which can be found [here](https://genesis10-my.sharepoint.com/:w:/g/personal/ljohn_dev-10_com/EeQlvYFfHgZPimRTJ-7MfWABxSBU7Uf_VLD4F7ku9Zfsqw?e=1LaClB )
+We created 'napkin drawings' to quickly mock up our presentation and visualization ideas, which can be found [here](https://genesis10-my.sharepoint.com/:w:/g/personal/ljohn_dev-10_com/EeQlvYFfHgZPimRTJ-7MfWABxSBU7Uf_VLD4F7ku9Zfsqw?e=1LaClB)
+
+PRELIMINARY PRESENTATION DRAWINGS:
+We created a [preliminary outline](https://genesis10-my.sharepoint.com/:w:/g/personal/ljohn_dev-10_com/Eb3JwfVWA-1HmCfEJORwYjkBw8wwJFD6BAhWjmLiCxoYYg?e=qRilyX) of 'napkin' slides to help plan the portions of our presentation.
 
 OVERVIEW:
 Using census and public schooling financial data within the United States to observe trends in educational funding, and their relation to academic success. We are interested in projecting the adequate levels of funding necessary for each region of the US, the impact of student-teacher ratios on student performance, and the correlation of financial expenditures (teachers salarys, etc.) on the standardized testing outcomes by state and region. 
